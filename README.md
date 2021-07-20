@@ -713,8 +713,3 @@ console.log(genit.next(13)); // { value: 42, done: true }
 ## HTML Templates
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings
-
-
-[More info](https://github.com/lukehoban/es6features)
- 
-
